@@ -1,0 +1,10 @@
+{
+  "name": "com.bhavya2882.pathcreator",
+  "version": "1.0.0",
+  "displayName": "Path Creator",
+  "description": "Bezier path creation tool by Sebastian Lague",
+  "unity": "2020.3",
+  "author": {
+    "name": "bhavya"
+  }
+}
